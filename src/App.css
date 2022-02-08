@@ -1,0 +1,10 @@
+.d-flex {
+  display: flex;
+}
+.column {
+  flex-direction: column;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
